@@ -1,6 +1,8 @@
 Raspberry Pi 7 Segment Display Library
 ======================================
 
+(This fork is primarily to add a few more letterts I thought were possible, e.g. 't')
+
 This is a simple library to use M 7 segment displays connected to N *595 Shift registers.
 All pin numbers are based on the GPIO.BCM numbering scheme.
 You will need the RPi.GPIO module available.
